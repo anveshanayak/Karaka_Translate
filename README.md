@@ -1,2 +1,5 @@
-# Translation-Tool-using-Paninian-Karaka-Structure-A
-English to Telugu Translation Tool using Paninian Karaka Grammar Structure
+# Translation-Tool-using-Paninian-Karaka-Structure
+
+English to Telugu Translation Tool iteration 1
+
+English to Telugu Translation Tool iteration 2
